@@ -1,0 +1,2 @@
+# ex
+ exercicios do curso

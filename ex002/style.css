@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Love';
+    src: url('love larry ttf.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f84d22;
+}
+h1{
+    font-family: 'Love', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+    text-align: center;
+    color: #ffffff;
+}
+p{
+    text-align: justify;
+    color: #ffffff;
+    background-color: #922105af;
+}
+div{
+    text-align: center;
+}
